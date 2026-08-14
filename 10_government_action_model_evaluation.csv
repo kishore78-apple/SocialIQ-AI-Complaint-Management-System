@@ -1,0 +1,12 @@
+metric,value
+model_mode,rule_based
+source_table,government_action_recommendation
+selected_text_columns,risk_level
+target_column,generated_recommended_action
+total_records,10196
+number_of_action_classes,1
+evaluation_available,False
+accuracy,Not Available
+weighted_precision,Not Available
+weighted_recall,Not Available
+weighted_f1_score,Not Available
