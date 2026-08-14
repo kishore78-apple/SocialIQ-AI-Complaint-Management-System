@@ -1,0 +1,12 @@
+metric,value
+accuracy,0.06382978723404255
+weighted_precision,0.09422437460511368
+weighted_recall,0.06382978723404255
+weighted_f1_score,0.06959041949530871
+macro_f1_score,0.06874448382345597
+original_records,100000.0
+usable_records,704.0
+training_records,563.0
+testing_records,141.0
+number_of_departments,8.0
+minimum_records_per_department,10.0

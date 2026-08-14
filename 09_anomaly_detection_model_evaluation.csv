@@ -1,0 +1,15 @@
+metric,value
+model_type,Isolation Forest
+contamination_rate,0.05
+original_records,10196
+usable_records,10196
+number_of_features,1
+normal_records,10194
+anomaly_records,2
+detected_anomaly_percentage,0.02
+existing_target_column,Not Available
+supervised_evaluation_available,False
+accuracy,Not Available
+precision,Not Available
+recall,Not Available
+f1_score,Not Available

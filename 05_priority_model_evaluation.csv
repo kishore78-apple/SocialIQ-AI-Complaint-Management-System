@@ -1,0 +1,12 @@
+metric,value
+accuracy,0.0
+weighted_precision,0.0
+weighted_recall,0.0
+weighted_f1_score,0.0
+macro_f1_score,0.0
+original_records,100000.0
+usable_records,116.0
+training_records,92.0
+testing_records,24.0
+number_of_priority_categories,4.0
+minimum_records_per_priority,10.0

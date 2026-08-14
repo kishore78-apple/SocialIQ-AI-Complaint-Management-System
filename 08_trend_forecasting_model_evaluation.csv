@@ -1,0 +1,15 @@
+metric,value
+mean_absolute_error,451347126.1070527
+mean_squared_error,4.1516959716334856e+20
+root_mean_squared_error,20375710960.929646
+r_squared,-0.0004909180166916549
+mean_absolute_percentage_error,100.0
+original_records,10196
+daily_time_points,10196
+model_ready_records,10189
+training_records,8151
+testing_records,2038
+forecast_periods,30
+selected_date_column,generated_sequential_date
+selected_value_column,c_and_g
+trend_measure,c_and_g

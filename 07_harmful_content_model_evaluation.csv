@@ -1,0 +1,12 @@
+metric,value
+accuracy,0.6398601398601399
+weighted_precision,0.6472897955951973
+weighted_recall,0.6398601398601399
+weighted_f1_score,0.6425551452417124
+macro_f1_score,0.6277912027165758
+original_records,5852
+usable_records,5719
+training_records,4575
+testing_records,1144
+number_of_classes,2
+selected_target_column,task_1
