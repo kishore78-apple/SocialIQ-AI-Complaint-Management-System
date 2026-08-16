@@ -5,7 +5,7 @@ import os
 # Backend API URL
 API_URL = os.getenv(
     "API_URL",
-    "http://127.0.0.1:8000/predict"
+    "https://socialiq-ai-complaint-management-system-1.onrender.com/predict"
 )
 
 st.set_page_config(
@@ -94,7 +94,7 @@ if st.button("🔍 Analyze Complaint", use_container_width=True):
 
                     st.info(
                         f"⚠️ Harmful Content: "
-                        f"{prediction.get('harmful_content', 'Unavailable')}"
+                        f"{prediction.get("harmful", "Unavailable")}"
                     )
 
                     st.info(
