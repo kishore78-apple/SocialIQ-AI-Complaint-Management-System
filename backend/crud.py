@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-import models
+from . import models
 
 
 def create_complaint(db: Session, citizen_name: str, complaint: str):

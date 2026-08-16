@@ -1,10 +1,11 @@
 from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
 
-from database import get_db
-from schemas import ComplaintRequest
-from crud import create_complaint, save_prediction
-from predict import predict_all
+from .database import get_db
+from .schemas import ComplaintRequest
+from .crud import create_complaint, save_prediction
+from .predict import predict_all
+
 
 app = FastAPI(
     title="SocialIQ AI Complaint System",
