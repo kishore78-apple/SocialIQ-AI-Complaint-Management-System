@@ -1,0 +1,12 @@
+metric,value
+accuracy,0.7692307692307693
+weighted_precision,0.7675473166934268
+weighted_recall,0.7692307692307693
+weighted_f1_score,0.7670717758078353
+macro_f1_score,0.7575876261285184
+original_records,7613.0
+usable_records,6889.0
+training_records,5511.0
+testing_records,1378.0
+number_of_emergency_classes,2.0
+minimum_records_per_class,10.0
